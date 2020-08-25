@@ -1,5 +1,5 @@
 [
-  {
+  [{
     "Id": "707bef35-0c1b-4e0a-b60f-5c059f0d6a57",
     "Title": "Recordings",
     "Image": "images/playlists/remotesite.png",
@@ -20,7 +20,9 @@
       "3b72f30f-1438-4551-b009-8ad6f7d924a2",
       "22a36fe4-99c7-4ae1-b9d3-9404fcb05595"
     ]
-  },
+  }]
+],
+[
   {
     "Id": "29c81670-6c76-42b8-ae75-799202e7e0f9",
     "Title": "Recordings",
