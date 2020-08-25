@@ -41,7 +41,17 @@
           "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
           "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
           "Source": "JulieTurner",
-          "SubCategories": []
+          "SubCategories": [
+            {
+              "Id": "29c81670-6c76-42b8-ae75-799202e7e0f9",
+              "Name": "Outlook",
+              "Image": "images/categories/remote.png",
+              "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
+              "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
+              "Source": "JulieTurner",
+              "SubCategories": []
+            }
+          ]
         }
       ]
     }
