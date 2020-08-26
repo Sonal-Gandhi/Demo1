@@ -17,5 +17,24 @@
       "2819116b-ce59-41aa-8a50-a9cb5af1be45",
       "b53e628a-3558-44be-b14e-1a9700c9c37a"
     ]
+  },
+  {
+    "Id": "bb429484-df2e-4166-b823-6fdb1a71e7c0",
+    "Title": "Outlook",
+    "Image": "playlists/Outlook_com-Logo_wine.png",
+    "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
+    "AudienceId": "e8c8ddb2-cc57-4547-8678-d6df31ae3ada",
+    "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
+    "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
+    "Source": "JulieTurner",
+    "CatId": "29c81670-6c76-42b8-ae75-799202e7e0f9",
+    "Description": "Learn all about the PnP remote provisioning model.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "3b72f30f-1438-4551-b009-8ad6f7d924a2",
+      "2819116b-ce59-41aa-8a50-a9cb5af1be45",
+      "b53e628a-3558-44be-b14e-1a9700c9c37a"
+    ]
   }
 ]
