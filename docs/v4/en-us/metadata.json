@@ -77,11 +77,7 @@
   "Audiences": [
     {
       "Id": "e8c8ddb2-cc57-4547-8678-d6df31ae3ada",
-      "Name": "Developer"
-    },
-    {
-      "Id": "922979ef-2f63-4cfa-9f70-5b36bf1f1c13",
-      "Name": "IT Admin"
+      "Name": "All"
     }
   ],
   "Sources": [
