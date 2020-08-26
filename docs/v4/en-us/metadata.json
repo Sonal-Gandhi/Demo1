@@ -28,7 +28,7 @@
   "Categories": [
     {
       "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
-      "Name": "Web Portal",
+      "Name": "Get Started",
       "Image": "",
       "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
       "SubjectId": "",
@@ -36,40 +36,13 @@
       "SubCategories": [
         {
           "Id": "707bef35-0c1b-4e0a-b60f-5c059f0d6a57",
-          "Name": "Teams",
+          "Name": "Web Portal",
           "Image": "playlists/Microsoft_Teams-Logo.wine.png",
           "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
           "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
           "Source": "JulieTurner",
           "SubCategories": []
-        },
-        {
-            "Id": "29c81670-6c76-42b8-ae75-799202e7e0f9",
-            "Name": "Outlook",
-            "Image": "playlists/Outlook_com-Logo_wine.png",
-            "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
-            "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
-            "Source": "JulieTurner",
-            "SubCategories": []
-         },
-         {
-              "Id": "98427e37-8150-4cfa-8e1e-32bf2350dfa9",
-              "Name": "Excel",
-              "Image": "playlists/microsoft-excel-logo.png",
-              "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
-              "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
-              "Source": "JulieTurner",
-              "SubCategories": []
-          },
-          {
-              "Id": "7bb84da5-4b76-4978-b111-a7e46e70ed98",
-              "Name": "Portal",
-              "Image": "playlists/clicklearn-logo.png",
-              "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
-              "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
-              "Source": "JulieTurner",
-              "SubCategories": []
-          }
+        }
       ]
     }
   ],
