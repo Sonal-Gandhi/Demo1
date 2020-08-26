@@ -37,7 +37,7 @@
         {
           "Id": "707bef35-0c1b-4e0a-b60f-5c059f0d6a57",
           "Name": "Teams",
-          "Image": "images/categories/remote.png",
+          "Image": "playlists/Microsoft_Teams-Logo.wine.png",
           "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
           "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
           "Source": "JulieTurner",
@@ -46,7 +46,7 @@
         {
             "Id": "29c81670-6c76-42b8-ae75-799202e7e0f9",
             "Name": "Outlook",
-            "Image": "images/categories/remote.png",
+            "Image": "playlists/Outlook_com-Logo_wine.png",
             "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
             "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
             "Source": "JulieTurner",
